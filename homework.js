@@ -12,7 +12,6 @@ function BinarioADecimal(num) {
 
 function DecimalABinario(num) {
   // tu codigo aca
-  
 }
 
 
